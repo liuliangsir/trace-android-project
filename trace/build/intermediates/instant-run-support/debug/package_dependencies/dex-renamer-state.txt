@@ -1,0 +1,4 @@
+#Tue Apr 04 15:38:14 CST 2017
+base.0=/Users/liuliang/Desktop/project/trace/trace/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_392697d385fca7cd71ae10fddd03fa4cf23bba8e
+renamed.0=classes.dex
+file.0=/Users/liuliang/Desktop/project/trace/trace/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_392697d385fca7cd71ae10fddd03fa4cf23bba8e/classes.dex

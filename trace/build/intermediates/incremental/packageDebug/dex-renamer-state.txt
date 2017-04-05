@@ -1,0 +1,7 @@
+#Tue Apr 04 15:38:14 CST 2017
+base.0=/Users/liuliang/Desktop/project/trace/trace/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c893b0f6c5191e939393ac568e14d851c0b49bc1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/liuliang/Desktop/project/trace/trace/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_19665c105a663d6087f373eafea395fcbe7cb15b/classes.dex
+base.1=/Users/liuliang/Desktop/project/trace/trace/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_19665c105a663d6087f373eafea395fcbe7cb15b
+file.0=/Users/liuliang/Desktop/project/trace/trace/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c893b0f6c5191e939393ac568e14d851c0b49bc1/classes.dex

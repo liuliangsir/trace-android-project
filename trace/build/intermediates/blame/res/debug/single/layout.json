@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/layout/aty_select_time.xml",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/layout/aty_select_time.xml"
+    },
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/layout/aty_eidt_note.xml",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/layout/aty_eidt_note.xml"
+    },
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/layout/photo_view.xml",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/layout/photo_view.xml"
+    },
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/layout/media_list_cell.xml",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/layout/media_list_cell.xml"
+    },
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/layout/notes_list_cell.xml",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/layout/notes_list_cell.xml"
+    }
+]

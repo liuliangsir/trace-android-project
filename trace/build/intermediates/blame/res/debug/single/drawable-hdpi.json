@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/drawable-hdpi/icon_photo.png",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/drawable-hdpi/icon_photo.png"
+    },
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/drawable-hdpi/icon_video.png",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/drawable-hdpi/icon_video.png"
+    },
+    {
+        "merged": "/Users/liuliang/Desktop/project/trace/trace/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/liuliang/Desktop/project/trace/trace/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
