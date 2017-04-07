@@ -3,6 +3,7 @@ package com.trace.activity;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.io.UnsupportedEncodingException;
 
 import com.trace.NotesDB;
 import com.trace.R;
@@ -222,9 +223,19 @@ public class MainActivity extends ListActivity {
                 }
 
                 if(Integer.parseInt(formatedText) == 0) {
-                    formatedText = "未完成";
-                } else {
-                    formatedText = "已完成";
+                        try {
+                            byte[] iso8859 = "未完成".getBytes("ISO-8859-1");
+                            formatedText = new String(iso8859,"UTF-8");
+                        } catch (UnsupportedEncodingException e) {
+
+                        }
+                    } else {
+                        try {
+                            byte[] iso8859 = "已完成".getBytes("ISO-8859-1");
+                            formatedText = new String(iso8859,"UTF-8");
+                        } catch (UnsupportedEncodingException e) {
+
+                        }
                 }
                 return formatedText;
             case R.id.tvDate:
